@@ -13,9 +13,9 @@ pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
 
 [params]
-title = "Director of Product Management at San Francisco Digital Services"
+title = "Hi, I'm Adrianna Tan"
 author = "Adrianna Tan"
-description = "Call me Adrianna"
+description = "Director of Product Management at San Francisco Digital Services"
 profilePicture = "images/profile.jpg"
 keywords = "product management, product, startup, founder, mentorship"
 favicon = "favicons/"
