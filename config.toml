@@ -72,6 +72,7 @@ url = "mailto:adrianna@jefritan.com"
    url = "/about/"
  
    [[menu.main]]
+   name = "Contact"
    weight = 400
    identifier = "contact"
    url = "/contact/"
