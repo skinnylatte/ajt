@@ -1,7 +1,7 @@
 +++
 title = "About"
 description = "About Adrianna Tan, director of product management at San Franciscso Digital Services"
-date = "2020-03-22"
+date = "2021-03-22"
 aliases = ["about-us"]
 author = "Adrianna Tan"
 +++
@@ -16,4 +16,4 @@ Mostly, she hsa been either an operator or founder helping companies that want t
 
 In 2012, she also helped to start the [Gyanada Foundation](https://gyanada.org), a non-profit that works to improve education outcomes for underprivileged children in Mumbai and Ranchi, particularly girls. 
 
-Adrianna is happy to assist any founders from under-represented communities and / or who work in emerging markets. You may book time with her by cliocking [contact](/contact) to get in touch.
+Adrianna is happy to assist any founders from under-represented communities and / or who work in emerging markets. You may book time with her by clicking [contact](/contact) to get in touch.
