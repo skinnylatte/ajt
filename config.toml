@@ -54,6 +54,11 @@ icon = "fas fa-envelope"
 title = "email"
 url = "mailto:adrianna@jefritan.com"
 
+[[params.socialIcons]]
+icon = "fas fa-calendar"
+title = "book time"
+url = "https://woven.com/c/skinnylatte17/MeetAdrianna"
+
 ## Menu Items 
 
 [menu]
